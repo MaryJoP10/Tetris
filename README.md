@@ -1,22 +1,17 @@
 # Tetros
-Simulación de Tetris
+Tetris Simulation
 
 Controls:
 
-A -> mover derecha
+A -> move right
 
-D -> mover izquierda
+D -> move left
 
-S -> mover abajo
+S -> move down
 
-Space -> Bajar del todo
+Space -> Down
 
-Q -> Rotar fichas
-
-
-En la carpeta de Evidencia se encuentra el boceto hecho (Wireframe) y el juego en funcionamiento.
+Q -> Rotate
 
 
-María José Peña Ruiz
-
-Mateo Agudelo Ciro 
+In the Evidence folder you will find the wireframe and the game in operation.
